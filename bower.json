@@ -1,0 +1,13 @@
+{
+  "name": "jqwidgets",
+  "version": "3.6.0",
+  "authors": [
+    "info@jqwidgets.com"
+  ],
+  "description": "jQWidgets provides a comprehensive solution for building professional web sites and mobile apps.",
+  "keywords": [
+    "jquery"
+  ],
+  "license": "Creative Commons Attribution-NonCommercial 3.0 License",
+  "homepage": "http://www.jqwidgets.com/"
+}
